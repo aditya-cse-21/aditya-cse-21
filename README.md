@@ -6,7 +6,7 @@ I have strong skills in HTML, CSS, JavaScript, React, Node.js, Express, and Mong
 - 🔭 I’m currently working on **React.js** and **MERN Stack** projects.    
 - 👯 I’m looking for an **Internship or full-time Job**.  
 - 💬 Ask me about **Full Stack Development** or **DSA**.
-- 📫 How to reach me: **aditya21cse@gmail.com**
+- 📫 Reach out to me: **aditya21cse@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@ I have strong skills in HTML, CSS, JavaScript, React, Node.js, Express, and Mong
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-- **Web Development**:  
+- **Frontend Development**:  
   <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
