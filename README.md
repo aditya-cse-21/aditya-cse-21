@@ -3,7 +3,7 @@
 <img align="right" alt="coding image" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 I have strong skills in HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. Currently enhancing my development skills further along with Data Structures & Algorithms (DSA). I'm actively looking for an internship or job opportunity where I can apply my knowledge, contribute to real-world projects, and keep growing as a developer.
-- 🔭 I’m currently working on **React.js** and **MERN Stack** projects.    
+- 🔭 I’m currently working on **MERN Stack** projects.    
 - 👯 I’m looking for an **Internship or full-time Job**.  
 - 💬 Ask me about **Full Stack Development** or **DSA**.
 - 📫 Reach out to me: **aditya21cse@gmail.com**
